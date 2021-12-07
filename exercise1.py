@@ -1,5 +1,6 @@
-a=int(input("Введите число:"))
-if (a>100) or (a<-100):
-    print("a=",a*0)
+
+a=int(input("Санды жаз = "))
+if a>100 or a<-100:
+        print("0")
 else:
-    print("a=",a+1)
+        print("1")
